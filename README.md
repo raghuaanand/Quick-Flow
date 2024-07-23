@@ -41,7 +41,7 @@ Ensure that you have *Node version 18.x.x* or a higher version installed.
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/Nick-h4ck3r/quickflow.git
+git clone https://github.com/raghuaanand/Quick-Flow.git
 ```
 
 ### Install packages
